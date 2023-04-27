@@ -17,3 +17,5 @@ You need to have Docker up for this to work.
 
 2. Create a new Endpoint to list all character names from a movie.
    * You pass an ID as a URL parameter. 
+   
+   To show the characters, add /characters/<movie_id> where movie_id is 1-6, to the localhost URL.
